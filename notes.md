@@ -1,5 +1,6 @@
 ## Ideas
-
+get api 3.0
+continue accessories part
 
 ### Layer determination:
 -20 à -5:

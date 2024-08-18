@@ -61,7 +61,6 @@ def calculate_layers(temperature):
     
     return layers
 
-
 def recommend_best_clothing(temperature, layers):
     # Calculate desired clothHeatScore
     desired_score = -temperature + 35
